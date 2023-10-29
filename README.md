@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jeff White!
+- 👀 I’m interested in a new career in Data.
+- 🌱 I am proficient in Excel, SQL, and Tableau and I am currently learning Python and Power BI.
+- 📫 You can reach me by email at jeffwhitesmail@gmail.com.
